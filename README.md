@@ -17,10 +17,6 @@ Contents
 - `animal-sleep.csv` — Dataset used in the notebook (77 species; columns include `animal`, `diet`, `sleep`, and `mass`).
 - `linear_model.py` — Small helper class used by the notebook to fit, predict, and plot linear models.
 
-Quick links
------------
-- Open the notebook in Google Colab: https://colab.research.google.com/github/mutambo/animal-sleep/blob/main/animal_sleep.ipynb
-
 Data schema
 -----------
 Expected columns in `animal-sleep.csv`:
